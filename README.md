@@ -40,10 +40,36 @@ The following table summarizes the performance metrics from various experiments 
 | **Experiment 3** | 0.7970       | 0.7209        | 0.8410     | 0.7763       |
 | **Experiment 4** | 0.5048       | 0.0374        | 0.4250     | 0.0687       |
 
-## Requirements
-The code has been tested running under the following environment:
-- Python 3.7
-- PyTorch 1.3
-- dgl-cu101 0.4
-- CUDA 10.1
+
+## Installation
+To get started with SparseNet, clone this repository and install the required dependencies:
+```bash
+git clone https://github.com/parul-88/TAUS.git
+cd SparseNet
+```
+## Usage
+### Data Preparation
+Upload the tweet dataset `CLASSIFICATION_binary.ipynb` .
+
+### Training the Model
+Run the `CLASSIFICATION_binary.ipynb` script to start training the model:
+```bash
+python src/CLASSIFICATION_binary.ipynb
+```
+
+## References
+
+1.Vaswani, A., et al. (2017). Attention is all you need. Advances in neural information processing systems.
+
+2.Kipf, T. N., & Welling, M. (2016). Semi-Supervised Classification with Graph Convolutional Networks. arXiv preprint arXiv:1609.02907.
+
+## Contributors
+
+We would like to thank the following contributors for their valuable input and support in this project:
+
+- [parul-88](https://github.com/parul-88)
+- [Pr1910](https://github.com/Pr1910)
+- [SMIT-2411](https://github.com/SMIT-2411)
+- [coderphilosophy](https://github.com/coderphilosophy)
+
 
