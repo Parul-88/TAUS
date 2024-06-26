@@ -26,11 +26,6 @@ The following table shows the number of informative and non-informative tweets i
 |----------------------|--------------------------|------------------------------|
 | **Number of Tweets** | 3036                     | 3175                         |
 
-## References
-
-1.Vaswani, A., et al. (2017). Attention is all you need. Advances in neural information processing systems.
-
-2.Kipf, T. N., & Welling, M. (2016). Semi-Supervised Classification with Graph Convolutional Networks. arXiv preprint arXiv:1609.02907.
 
 ## Contributors
 
