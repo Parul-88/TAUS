@@ -24,16 +24,7 @@ The following table shows the number of informative and non-informative tweets i
 
 |                      | **# Informative Tweets** | **# Non-Informative Tweets** |
 |----------------------|--------------------------|------------------------------|
-| **Number of Tweets** | 3036                     | 3175                         |
+| **Number of Tweets** | 1012                     | 3175                         |
 
-
-## Contributors
-
-We would like to thank the following contributors for their valuable input and support in this project:
-
-- [parul-88](https://github.com/parul-88)
-- [Pr1910](https://github.com/Pr1910)
-- [SMIT-2411](https://github.com/SMIT-2411)
-- [coderphilosophy](https://github.com/coderphilosophy)
 
 
